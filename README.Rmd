@@ -27,3 +27,8 @@ library(nawqa)
 ```
 
 ## National Water-Quality Assessment Program
+
+```{r echo=FALSE}
+data("summary_data")
+dplyr::glimpse(summary_data)
+```
