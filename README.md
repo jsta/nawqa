@@ -15,7 +15,7 @@ devtools::install_github("jsta/nawqa")
 library(nawqa)
 ```
 
-## National Water-Quality Assessment Program
+## Data
 
     #> Observations: 502
     #> Variables: 71
