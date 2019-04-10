@@ -1,0 +1,9 @@
+^README\.Rmd$
+^.*\.Rproj$
+^\.Rproj\.user$
+DATADIGEST
+data-raw
+datapackager.yml
+vignettes
+Makefile
+docs

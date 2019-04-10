@@ -1,0 +1,13 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+inst/extdata
+inst/doc/
+data-raw/*.zip
+vignettes
+data-raw/*.dbf
+data-raw/*.xlsx
+data-raw/*.xls
+data-raw/*.XLS
